@@ -6,7 +6,7 @@
 </blockquote>
 
 <p>安卓版：</p>
-<h2><a href="https://raw.githubusercontent.com/yidiankuang/VIP/master/P%E4%B8%ADP.apk" title="官网下载" target="_blank">官网下载</a> </h2>
+<h2><a href="https://raw.githubusercontent.com/yidiankuang/VIP/master/P%E4%B8%ADP.apk" title="官网下载" target="_blank">下载安装</a> </h2>
 
 <p>苹果版：</p>
 
@@ -16,9 +16,9 @@
 <h2 id="P中P的原则">P中P的原则：</h2>
 
 <ul><li><p>P中P永久免费，一键使用</p></li>
+<li><p>P中P配合QQ浏览器使用效果更好，还可以将视屏发送到电视观看欧</p></li>
 <li><p>P中P所有资源均来源网络</p></li>
 <li><p>P中P中所有内容仅供学习使用</p></li>
-<li><p>学习不做坏事</p></li>
 </ul>
 
 <p>如果您不喜欢不满意，请走开欢迎卸载，尊重他人的无私奉献，把流量留给需要的人。</p>
